@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/monikasleboda/blog-website"><img src="img/dailyjournal.png" title="dailyjournal" alt="homepage screenshoot"></a>
+</p>
+
 <h1 align="center">Blog Website</h1>
   <p align="center">Project for mastering partials.</p>
 <br>
